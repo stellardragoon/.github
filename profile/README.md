@@ -1,4 +1,4 @@
-![stellar dragoon logo banner](assets/readme-banner.png)
+![stellar dragoon logo banner](/assets/readme-banner.png)
 
 # ステラグーン
 
